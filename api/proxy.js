@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-  const gasUrl = "https://script.google.com/macros/s/AKfycbz2W0zMmtUhm8bW2Opb9OpTb_s1P8tOSaCO_HnWMq94fx5125mLFTDnYUpdvqjgugzX/exec";
+  const gasUrl = "https://script.google.com/macros/s/AKfycbyx59cT7YN35wXwJsqshXHq7YYr8iEdAsUYykpRQDZ_SLdQj6hpeza9MK2WKbKxis8H/exec";
 
   const url =
     req.method === "GET"
